@@ -1,1 +1,3 @@
 How is weather outside.
+
+It is good today.
